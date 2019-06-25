@@ -1,0 +1,5 @@
+trait stream {
+  
+  def p
+  
+}

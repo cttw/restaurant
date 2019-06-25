@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.streetcontxt:kpl-scala_2.12:1.0.5:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/com.streetcontxt/kpl-scala_2.12/jars/kpl-scala_2.12-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/com.streetcontxt/kpl-scala_2.12/srcs/kpl-scala_2.12-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
